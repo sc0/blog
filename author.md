@@ -1,3 +1,7 @@
 ---
 layout: page
 ---
+
+Hi, I'm Kacper, but you can also sometimes find me online by my alias 'sc0'. I mostly do fullstack web development nowadays, but I worked in gamedev for a couple of years and that is still something I like to come back to. I have always loved to try out new things, languages and technologies, so I did a bit of everything - PHP, C# (with Unity 3D), JS, TypeScript, C++, Python and so on, but lately I decided it's time to "settle down" and specialize in something, so I've chosen Node.js as my goto platform and JS/TS as a main language (couldn't decide which one I like more, though). I'm an Open Source lover, vim addict, formerly a full-time Linux user, now on OSX.
+
+On the blog I'd like to share some of the problems I've encountered on my way as well as some ideas that I tried to implement, so you can expect absolutely everything - from backend to frontend, from webdev to gamedev, from shell-scripting to machine learning. I want this blog to motivate me to do something more with things I'm interested in other than my work. Don't be surprised too much if you find mistakes in my posts as I will most probably do a lot of things here for the first time, as I treat it mostly as a learning tool and a way to reach out to people with much more experience than me. So please, do not hesitate to correct me in the comments or via Twitter.
