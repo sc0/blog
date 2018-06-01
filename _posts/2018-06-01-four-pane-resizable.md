@@ -4,6 +4,7 @@ title:  "Creating resizable Flexbox four-pane layout in React"
 date:   2018-05-02 16:48:52 +0200
 published: true
 category: frontend
+comments: true
 tags: frontend react flexbox
 ---
 
