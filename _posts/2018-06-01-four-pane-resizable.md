@@ -325,6 +325,7 @@ So the big question is - do we need any of this? Normally - definitely yes. Itâ€
 ## And there you have it!
 
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/9ViAYQv7hRIoGAtHHL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<br/>
 
 And this is how I managed to solve my problems trying to work with React, interact.js and Flexbox in order to create resizable four-pane layout. You can find all the source code on [my GitHub](https://github.com/sc0/resizable-four-pane-layout).
 
