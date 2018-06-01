@@ -13,22 +13,48 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Kacper Dębowski
+email: kdebowski93@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My personal blog where I'm mostly wrong about programming
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://kdebowski.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kdebowski
+github_username:  sc0
+logo: "/images/kacper-debowski-mugshot.jpg"
+locale: "en-US"
+
+read_time: true
+words_per_minute: 200
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-so-simple 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: /page:num/
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tag/#"
+
+author:
+  name: Kacper Dębowski
+  twitter: kdebowski
+  picture: /images/kacper-debowski-mugshot.jpg
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/kdebowski93
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/sc0
+    icon: fab fa-github-square
+  - title: Feed
+    url: feed.xml
+    icon: fas fa-rss-square
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
