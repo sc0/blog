@@ -3,7 +3,7 @@ layout: post
 title: Creating a picross game pt. 1 - generating picrosses
 date: 2018-06-11 23:25:05 +0200
 published: true
-category: gamedev puzzles
+categories: gamedev puzzles
 comments: true
 tags: gamedev picross games jimp backend puzzles javascript images
 ---
