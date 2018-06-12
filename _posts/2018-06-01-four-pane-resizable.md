@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Creating resizable Flexbox four-pane layout in React"
-date:   2018-05-02 16:48:52 +0200
+date:   2018-06-01 16:48:52 +0200
 published: true
 category: frontend
 comments: true
-tags: frontend react flexbox
+tags: frontend react flexbox javascript
 ---
 
 As most full stack developers, I wasn’t „born” as one - almost all of us came from differents background, so we have a unique perspective and problems on our ways. I originated from backend and for kinda a long time I had no idea about frontend - CSS was absolutely black magic fuckery to me. And yet here I am, trying my best at doing something that not only (maybe just barely, but still) works,  but also something that won’t make users’ eyes bleed.
